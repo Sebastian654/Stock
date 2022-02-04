@@ -9,6 +9,6 @@
 
 ## Sobre el proyecto
 
-- Montar base de datos con el nombre de 'stock' que esta en la raiz del proyecto.
+- Montar base de datos con el nombre de 'stock.sql' que esta en la raiz del proyecto.
 - Ejecutar en la consola o terminal 'composer update' estando dentro de la carpeta del proyecto
 - Ejecutar php 'artisan serve' y en consola mostrara la ruta a la que se debe acceder desde el navegador.
